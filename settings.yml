@@ -1,2 +1,3 @@
-example_setting:
-  default: true
+affiliate_link:
+  default: "affiliates/-123"
+  type: "string"

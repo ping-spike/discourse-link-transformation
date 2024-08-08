@@ -1,5 +1,5 @@
 # discourse-affiliate-linker
 
-**Theme Summary**
+** Rewrite dronesafestore.com Urls with affiliate code**
 
-For more information, please see: **url to meta topic**
+TODO: add setting for base URL so it works for things other than the one site.
