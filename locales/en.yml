@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: Rewrite links with affiliate code
+    settings:
+      example_setting: A description of a setting.
